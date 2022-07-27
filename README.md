@@ -61,7 +61,7 @@ This user needs to be able to work with events, but does not need to update admi
 You have three options that can be used to authenticate the connection from LogicMonitor to xMatters:
 1. API key using API key and Secret (Recommended)
    * You should create an [API key](https://help.xmatters.com/ondemand/user/apikeys.htm) under the __Integration User__ profile called something like LogicMonitor
-   * Make sure to note the API key and Secret for LogicMonitor configuration later
+   * > :pencil2: *Make sure to note the API key and Secret for LogicMonitor configuration later*
 2. Basic Authentication using Username and Password
    * In this case you will use the __Integration User__ username and password
 3. URL Authentication
