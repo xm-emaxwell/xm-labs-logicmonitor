@@ -1,4 +1,4 @@
-# Send LogicMonitor alerts to xMatters to help you find resolvers faster.
+# LogicMonitor - Alerts
 Automatically notify the appropriate on call resources on their preferred device when alert thresholds are met.
 This integration helps you initiate xMatters notifications for LogicMonitor alerts.
 
