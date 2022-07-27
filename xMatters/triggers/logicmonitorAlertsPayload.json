@@ -3,7 +3,7 @@
     "internal_id": "##INTERNALID##",
     "external_ticket_id": "##EXTERNALTICKETID##",
     "message": "##MESSAGE##",
-    "alert_type": "##ALERTTYPE",
+    "alert_type": "##ALERTTYPE##",
     "admin": "##ADMIN##",
     "alert_status": "##ALERTSTATUS##",
     "alert_detail_url": "##ALERTDETAILURL##",
